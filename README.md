@@ -1,3 +1,5 @@
 # New Project 
 
-This project was creatted from local system.
+
+This project was created from a local system.
+Created by Varun Kurhade.
